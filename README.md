@@ -20,3 +20,13 @@ This part assesses how you communicate your findings to stakeholders.
 - Visualize the results from questions 3, 4, and 5 of the SQL Challenge.
 - You can use any tool like Excel, Google Sheets, or Jupyter notebooks.
 - Clearly label your datasets and provide the resulting file or links in the viz_challenge directory.
+
+## Bookings EDA Challenge
+This bonus challenge focuses on analyzing booking data to provide actionable insights.
+
+### Instructions
+Analyze the provided 12-month denormalized bookings data.
+Provide recommendations to improve the close rate (defined as the number of closed-won opportunities divided by the number of opportunities).
+Submit your analysis as a brief Word or PowerPoint document. Include your analysis in Excel, SQL, or a notebook file.
+### Data Files
+- bookings_data.csv
